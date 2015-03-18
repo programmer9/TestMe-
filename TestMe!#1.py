@@ -60,3 +60,27 @@ if fb == 'front':
     print( '|                             |')
     print( '-------------------------------')
 
+
+
+    
+if fb =='back':
+
+
+    print('--------------------------------- ')
+    print('|                                |')
+    print('|                                |')
+    print('|                                |')
+    print('|                                |')
+    print(            flashback               )
+    print('|                                |')
+    print('|                                |')
+    print('|                                |')
+    print('|                                |')
+    print('|                                |')
+    print('|                                |')
+    print('----------------------------------')
+
+
+    
+    
+
